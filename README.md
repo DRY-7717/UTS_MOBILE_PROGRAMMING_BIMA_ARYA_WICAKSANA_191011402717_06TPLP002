@@ -1,6 +1,5 @@
 # quran_projek
 
-Projek ini dibuat untuk melengkapi tugas Mini Project pada MSIB Mobile Developer PT NCI
+Projek ini dibuat untuk melengkapi tugas UTS Mobile Programming
 
-ttd
-HAN
+Bima Arya Wicaksana
